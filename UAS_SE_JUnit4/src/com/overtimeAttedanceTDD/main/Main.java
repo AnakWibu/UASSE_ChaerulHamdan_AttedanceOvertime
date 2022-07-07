@@ -14,7 +14,7 @@ public class Main {
 	 */
 	
 	Scanner input = new Scanner(System.in);
-	int totalSalary = 1000000;
+	int totalSalary = 10000000;
 
 	public Main() {
 		// TODO Auto-generated constructor stub
